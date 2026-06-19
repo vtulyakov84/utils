@@ -17,7 +17,7 @@ mkdir ~/scripts
 chmod +x ~/scripts/ipsfromfile.py
 chmod +x ~/scripts/telsfromfile.py
 
-# 4. Добавлеям псевдонимы в файл ~/.bashrc
+# 4. Добавлеям псевдонимы в любое место файла ~/.bashrc
 nano ~/.bashrc
 # alias ipsfromfile=~/scripts/ipsfromfile.py
 # alias telsfromfile=~/scripts/telsfromfile.py
